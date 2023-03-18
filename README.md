@@ -1,8 +1,6 @@
 # Finance_calculator
 
-Financial management app, that uses mySQL as the main database for users and records. Users can create their account to save their expenses, examine the expenses graph,
-create new financial goals or inspect table of latest purchases and new ones. The graphical interface is created with JavaFX 
-, whereas database is connected using mySqlJDBC driver.
+This project is a financial management application that uses MySQL as its main database for storing user and expense records. Users can create accounts to save their expenses, view graphs of their expenses, set financial goals, and examine tables of their latest purchases and new expenses. The graphical user interface is developed using JavaFX, while the database is connected using the MySQL JDBC driver.
 
 ![login](https://user-images.githubusercontent.com/95643408/225459107-d1b43335-6578-4030-adf9-71eff4dbf97e.png)
 
